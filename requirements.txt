@@ -1,6 +1,0 @@
-Flask
-gunicorn
-fastai
-torch
-flask_cors
-fastai == 1.0.61
