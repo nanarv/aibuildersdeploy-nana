@@ -4,3 +4,4 @@ fastai==1.0.61
 torch
 flask_cors
 scikit-learn
+pandas==0.24.1
