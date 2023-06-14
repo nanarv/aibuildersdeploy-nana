@@ -1,5 +1,0 @@
-fastai==1.0.61
-torch
-torchvision
-torchaudio
-streamlit
